@@ -1,3 +1,8 @@
+# ❗Archived❗
+
+This repo is archived as Nextcloud now natively supports object and face recognition. 
+https://nextcloud.com/blog/announcing-nextcloud-hub-3-brand-new-design-and-photos-2-0-with-editor-and-ai/ 
+
 # Updates
 
 [2022 03 30] Updated to Nextcloud 23.0.3
